@@ -1,2 +1,4 @@
 # Performance-Evaluation
-This is a paper I co-authored for one of my grad courses
+Following is a brief abstract for the paper. 
+
+Over the years, wireless routers have achieved better throughput because of physical and MAC layer optimizations. The emergence of physical layer features has emphasized the need for efficient rate changing algorithms. In 2016, Ali Abedi and Tim Brecht introduced a novel approach of estimating frame error rates (FER) of one configuration from the FER of another. Their results show that in most scenarios, 5% of total configurations are sufficient to determine FERs of all the configurations. In our work, we perform experiments on devices having varying physical layer features in environments similar to and different from the ones in the original work. Our goal is to verify if ”magic” set covers exist in high interference network environments and if there is any similarity in the set covers and their size, obtained from our work and the original work.
